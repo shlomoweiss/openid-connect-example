@@ -1,0 +1,8 @@
+{
+  "issuer": "http://keycloak.router.default.svc.cluster.loca/auth/realms/test",
+  "authorization_endpoint": "http://keycloak.router.default.svc.cluster.loca/auth/realms/test/protocol/openid-connect/auth",
+  "token_endpoint": "http://keycloak.router.default.svc.cluster.loca/auth/realms/test/protocol/openid-connect/token",
+  "userinfo_endpoint": "http://keycloak.router.default.svc.cluster.loca/auth/realms/test/protocol/openid-connect/userinfo",
+  "end_session_endpoint" :"http://keycloak.router.default.svc.cluster.loca/auth/realms/test/protocol/openid-connect/logout"
+}
+
